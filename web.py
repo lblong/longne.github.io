@@ -1,0 +1,1 @@
+print('web của long nè :)))))')
